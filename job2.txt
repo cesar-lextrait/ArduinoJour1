@@ -1,0 +1,10 @@
+﻿On utilise la loi de Ohm, on sait que :
+tension seuil led = 2v
+tension alimentation = 5v
+courant max led = 20milliampères
+
+R = ( v_alim - v_led ) / C_max led 
+R = (5v-2v) / 0.01 ( car on veut un courant de 10 milliampères)
+R = 300ohms
+
+
